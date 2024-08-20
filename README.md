@@ -1,6 +1,6 @@
 # neo: nikeedev's theme
 
-`neo` is a theme that is proudly been made by @nikeedev, and before it's creation as a color palette, it was used as the main colours of the nikee.dev website. 
+`neo` is a theme that is proudly been made by [@nikeedev](https://github.com/nikeedev), and before it's creation as a color palette, it was used as the main colours of the nikee.dev website. 
 
 ## Here is the palette:
 
@@ -18,4 +18,4 @@ You can see the Neo Colors in action on https://nikee.dev website, or https://st
 
 If you want to use the colors, go away! In fact I recommend, as the blue colour is for calming the user while the black gives a more visible content, and of course it gives better contrast than other colours.
 
-[*nikeedev*](@nikeedev)
+*@nikeedev*
