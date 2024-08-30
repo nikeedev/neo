@@ -14,6 +14,10 @@ The Title Color should always be used only when you want to mark out a text, lik
 
 The Optional Color should be used to show contrast to something. As the name suggests, use it optionally, or when you want to mark something else out that is not as important as the Title Color.
 
+#### Non-listed on the image:
+
+Weak Main ("#82AAFF"): 
+
 You can see the Neo Colors in action on https://nikee.dev website, or https://stio.studio (you have to  change the theme manually through the [settings website](https://settings.stio.studio)).
 
 If you want to use the colors, go away! In fact I recommend, as the blue colour is for calming the user while the black gives a more visible content, and of course it gives better contrast than other colours.

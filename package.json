@@ -1,0 +1,22 @@
+{
+  "name": "neo",
+  "displayName": "neo",
+  "description": "Neo: nikeedev's official theme colour",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neo-color-theme.json"
+      }
+    ]
+  },
+  "repository": "https://github.com/nikeedev/neo"
+}
