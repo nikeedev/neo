@@ -1,8 +1,12 @@
 {
-  "name": "neo",
-  "displayName": "neo",
+  "name": "neo-color-pallete",
+  "displayName": "Neo",
+  "author": { "name": "nikeedev", "email": "hello@nikee.dev", "url": "https://nikee.dev" },
+  "license": "MIT",
+  "publisher": "nikeedev",
   "description": "Neo: nikeedev's official theme colour",
   "version": "1.0.0",
+  "icon": "./Neo_Icon_round.png",
   "engines": {
     "vscode": "^1.92.0"
   },
