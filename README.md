@@ -8,11 +8,15 @@
 
 Neo is based of only colours, making it easier to use, but also better to understand the content where the colors are used, making it less stressed than content with a lot of colours, disturbing the person. 
 
-The Main and the Back color, is the main colours, those can be used any way. Either the Main as foreground and Back as background, or opposite they both fit the style. 
+The Main and the Back color, is the main colours, those can be used any way. Either the Main as foreground and Back as background, or opposite they both fit the style:
+- Main color: **#6271f7**
+- Back color: **#282828**
 
 The Title Color should always be used only when you want to mark out a text, like a link or a warning messsage. The color will make the user aware while simultaneously keeping the person calm.
+- Title color: #ffffff
 
 The Optional Color should be used to show contrast to something. As the name suggests, use it optionally, or when you want to mark something else out that is not as important as the Title Color.
+- Optional color: **#243cf4**
 
 #### Non-listed on the image:
 
