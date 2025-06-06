@@ -13,7 +13,7 @@ The Main and the Back color, is the main colours, those can be used any way. Eit
 - Back color: **#282828**
 
 The Title Color should always be used only when you want to mark out a text, like a link or a warning messsage. The color will make the user aware while simultaneously keeping the person calm.
-- Title color: #ffffff
+- Title color: **#ffffff**
 
 The Optional Color should be used to show contrast to something. As the name suggests, use it optionally, or when you want to mark something else out that is not as important as the Title Color.
 - Optional color: **#243cf4**
